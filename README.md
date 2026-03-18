@@ -1,2 +1,2 @@
 # learning_cpp
-understand how c++ works reading some books and articles
+in order to understand how c++ works reading some books and articles
